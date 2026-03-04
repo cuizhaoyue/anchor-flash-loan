@@ -10,10 +10,6 @@
 2. **指令内省**：通过 Solana 的指令 sysvar 读取并验证交易中的其他指令
 3. **费用收取**：固定 500 bps（5%）的手续费
 
-## 挑战链接
-
-- [Blueshift 闪电贷挑战](https://learn.blueshift.gg/zh-CN/challenges/anchor-flash-loan)
-
 ## 核心功能
 
 ### Borrow 指令
